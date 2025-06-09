@@ -1,4 +1,4 @@
-## Hi there 👋
+##  Olá me chamo Yuri Gabriel e sou um programador iniciante apaixonado por tecnologia e desafios criativos👋
 
 <!--
 **YuriGabriel1/YuriGabriel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
