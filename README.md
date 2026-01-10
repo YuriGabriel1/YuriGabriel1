@@ -2,7 +2,7 @@
 **`Back-end Developer`** 
 
 Me chamo Yuri Gabriel Palmeira de castro , tenho 19 anos e sou natural da Bahia . Concluí o ensino médio no Colégio estadual Góes calmon, com o curso técnico em informática. 
- 
+(My name is Yuri Gabriel Palmeira de Castro, I am 19 years old and I am from Bahia. I completed high school at the Góes Calmon State College, with a technical degree in computer science.)
 ## 🛠️ Tech Stack
 
 **Languages:**
