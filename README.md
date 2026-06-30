@@ -3,6 +3,7 @@
 
 Me chamo Yuri Gabriel Palmeira de castro , nasci em 2006 e sou natural da Bahia . Concluí o ensino médio no Colégio estadual Góes calmon, com o curso técnico em informática. 
  
+ (My name is Yuri Gabriel Palmeira de Castro, I was born in 2006, and I am from Bahia. I completed high school at Colégio Estadual Góes Calmon, with a technical course in informatics.)
 ## 🛠️ Tech Stack
 **Languages:**
 
@@ -25,3 +26,4 @@ Me chamo Yuri Gabriel Palmeira de castro , nasci em 2006 e sou natural da Bahia 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
